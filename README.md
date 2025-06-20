@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Devi K M!
 
-🎓 Final-year IT Student at **Rajalakshmi Engineering College** (CGPA: 9.08)  
+🎓 Final-year IT Student at **Rajalakshmi Engineering College** 
 💻 Full Stack & App Developer | 🎨 UI/UX Designer | 🌐 Tech Explorer  
 📍 Chennai, India  
 
@@ -50,8 +50,6 @@
 ## 🌐 Let's Connect!
 
 📧 Email: [devikm.official@gmail.com](mailto:devikm.official@gmail.com)  
-📱 Phone: +91 8825924975  
-🔗 GitHub: [github.com/Devi-REC](https://github.com/Devi-REC)  
 🔗 LinkedIn: [linkedin.com/in/devi-k-m-34a8a4257](https://www.linkedin.com/in/devi-k-m-34a8a4257/)
 
 ---
