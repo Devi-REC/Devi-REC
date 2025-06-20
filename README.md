@@ -80,5 +80,5 @@ Web app using React and MySQL for analyzing global data trends.
 
 ---
 
-![Devi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devi-REC&show_icons=true&theme=tokyonight)
+![Devi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Devi-REC&count_private=true&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devi-REC&layout=compact&theme=tokyonight)
