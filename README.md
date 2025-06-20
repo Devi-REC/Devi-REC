@@ -1,10 +1,8 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#ff6f61;">Devi K M</span>!</h1>
+# 👋 Hello, I'm Devi K M!
 
-<p align="center">
-🎓 Final-year IT Student at <b>Rajalakshmi Engineering College</b> <br>
-💻 Full Stack Developer | App Developer | UI/UX Designer <br>
-📍 Chennai, India <br>
-</p>
+🎓 Final-year IT Student at **Rajalakshmi Engineering College**  
+💻 Full Stack Developer | App Developer | UI/UX Designer  
+📍 Chennai, India
 
 ---
 
