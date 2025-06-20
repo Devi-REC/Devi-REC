@@ -1,62 +1,46 @@
 # 👋 Hello, I'm Devi K M!
 
-🎓 Final-year IT Student at **Rajalakshmi Engineering College**  
-💻 Full Stack Developer | App Developer | UI/UX Designer  
-📍 Chennai, India
+🎓 Final-year IT Student at **Rajalakshmi Engineering College** (CGPA: 9.08)  
+💻 Full Stack & App Developer | 🎨 UI/UX Designer | 🌐 Tech Explorer  
+📍 Chennai, India  
 
 ---
 
 ## 🚀 About Me
 
-🌟 A passionate **Full Stack & Mobile App Developer** blending innovation, functionality, and design to craft smart user-focused digital experiences.
-
-💡 I love turning complex problems into simple, intuitive designs and scalable solutions.
-
-👥 Always open to collaboration and innovation in the fields of **healthcare, IoT, and AI**.
+✨ I'm a passionate **Full Stack & Mobile App Developer** who loves blending code and creativity to build **meaningful digital solutions**.  
+💡 I enjoy transforming ideas into scalable systems with an eye for **clean design** and **user experience**.  
+🤝 I'm enthusiastic about **collaboration, learning, and innovation**, especially in **Healthcare, IoT, and AI** domains.
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ My Tech Toolbox
 
-<table>
-  <tr>
-    <td><strong>💻 Languages</strong></td>
-    <td>Java, Python, C++, C, SQL, JavaScript, HTML/CSS</td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Frontend</strong></td>
-    <td>React, React Native, Tailwind CSS, UI/UX Design</td>
-  </tr>
-  <tr>
-    <td><strong>🧠 Backend & DB</strong></td>
-    <td>Node.js, Express.js, MongoDB, MySQL, JDBC</td>
-  </tr>
-  <tr>
-    <td><strong>🛠️ Tools</strong></td>
-    <td>Git, Android Studio, Wireshark, Kali Linux</td>
-  </tr>
-</table>
+| 💻 **Languages** | Java, Python, C++, C, SQL, JavaScript, HTML/CSS |
+|------------------|-------------------------------------------------|
+| 🎨 **Frontend**  | React, React Native, Tailwind CSS, Figma        |
+| 🧠 **Backend & DB** | Node.js, Express.js, MongoDB, MySQL, JDBC     |
+| 🔧 **Tools**     | Git, Android Studio, Wireshark, Kali Linux      |
 
 ---
 
-## 📬 Connect With Me
+## 🌐 Let's Connect!
 
-<p>
-📧 devikm.official@gmail.com  
-📱 +91 8825924975  
-🔗 <a href="https://github.com/Devi-REC" target="_blank">GitHub</a>  
-🔗 <a href="https://www.linkedin.com/in/devi-k-m-34a8a4257/" target="_blank">LinkedIn</a>
-</p>
+📧 Email: [devikm.official@gmail.com](mailto:devikm.official@gmail.com)  
+📱 Phone: +91 8825924975  
+🔗 GitHub: [github.com/Devi-REC](https://github.com/Devi-REC)  
+🔗 LinkedIn: [linkedin.com/in/devi-k-m-34a8a4257](https://www.linkedin.com/in/devi-k-m-34a8a4257/)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devi-REC&show_icons=true&count_private=true&theme=tokyonight" alt="Devi's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devi-REC&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devi-REC&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devi-REC&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 ---
 
-<p align="center"><i>“Code with purpose, design with empathy, innovate for impact.”</i></p>
+> 🧠 *“Code with purpose, design with empathy, and innovate for impact.”*
+
